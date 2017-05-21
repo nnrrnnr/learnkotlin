@@ -3,7 +3,9 @@ package com.example.watanabear.learnkotlin;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import com.trello.rxlifecycle.components.support.RxAppCompatActivity;
+
+public class MainActivity extends RxAppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
