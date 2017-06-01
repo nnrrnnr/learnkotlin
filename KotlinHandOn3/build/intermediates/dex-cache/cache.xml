@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ryo\Documents\GitHub\learnkotlin\KotlinHandOn3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="870bf13f25eadc2454c7484c9e0338fab49e6151">
+        <dex dex="C:\Users\ryo\Documents\GitHub\learnkotlin\KotlinHandOn3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_68c2ffc48bcacf9436e9fec854e4a75b324429fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ryo\Documents\GitHub\learnkotlin\KotlinHandOn3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\ryo\Documents\GitHub\learnkotlin\KotlinHandOn3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a80ce2e988addcf16ba99d3878136f5b36beeacc\classes.dex" />
+    </item>
+
+</items>
